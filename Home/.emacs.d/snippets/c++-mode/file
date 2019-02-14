@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: file
+# key: file
+# --
+freopen("$1.in","r",stdin);
+freopen("$1.out","w",stdout);
